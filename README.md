@@ -1,6 +1,6 @@
 - Hi! i am @EinRusse;
 - I interest myself mainly on game development in game engines such as Roblox Studio;
-- Im currently learning languages such as C# (CSharp) and Luau;
+- Im currently learning languages such as C# (CSharp), Luau and TypeScript;
 - I also like making scripts for roblox projects; 
 - I prefer if you want to reach me out, to do it on discord, which is "Kiyoko 秋#1831".
 
